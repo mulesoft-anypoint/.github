@@ -28,9 +28,9 @@ Ready to embark on a DevOps journey like no other? Join us today, and let's tran
 
 ## 🔗 Connect with Us:
 
-🌐 GitHub: [link](https://github.com/mulesoft-anypoint)
+🌐 [GitHub](https://github.com/mulesoft-anypoint)
 
-💬 Discord: [link](https://discord.gg/Y9cmgvmpwV)
+💬 [Discord](https://discord.gg/Y9cmgvmpwV)
 
 
 👉 Don't wait – become a part of the MuleSoft Anypoint Automation Collective and accelerate your integration game to new heights! 💪🔗🚀
